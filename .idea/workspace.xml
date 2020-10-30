@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8d92654-d2d4-41c9-87b6-b1b873bf604d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jb3qTTwKkxgGwHNUfoitDFUU4n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../server/lesson2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/view " />
+      <recent name="$PROJECT_DIR$/app/controller" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8d92654-d2d4-41c9-87b6-b1b873bf604d" name="Default Changelist" comment="" />
+      <created>1604059155053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604059155053</updated>
+      <workItem from="1604059156112" duration="70000" />
+      <workItem from="1604060315107" duration="228000" />
+      <workItem from="1604063153081" duration="2375000" />
+      <workItem from="1604065591556" duration="1490000" />
+      <workItem from="1604067562946" duration="1895000" />
+      <workItem from="1604069553052" duration="4764000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="839" y="445" width="298" height="238" key="#ESLint" timestamp="1604066971172">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="839" y="445" width="298" height="238" key="#ESLint/66.27.1854.1053@66.27.1854.1053" timestamp="1604066971172" />
+    <state x="696" y="355" width="670" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604073735663">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="696" y="355" width="670" height="403" key="#com.intellij.fileTypes.FileTypeChooser/66.27.1854.1053@66.27.1854.1053" timestamp="1604073735663" />
+    <state x="726" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604073394985">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="726" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/66.27.1854.1053@66.27.1854.1053" timestamp="1604073394985" />
+    <state x="776" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604073795609">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="776" y="311" width="424" height="491" key="FileChooserDialogImpl/66.27.1854.1053@66.27.1854.1053" timestamp="1604073795609" />
+    <state width="1831" height="275" key="GridCell.Tab.0.bottom" timestamp="1604064324750">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state width="1831" height="275" key="GridCell.Tab.0.bottom/66.27.1854.1053@66.27.1854.1053" timestamp="1604064324750" />
+    <state width="1831" height="275" key="GridCell.Tab.0.center" timestamp="1604064324750">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state width="1831" height="275" key="GridCell.Tab.0.center/66.27.1854.1053@66.27.1854.1053" timestamp="1604064324750" />
+    <state width="1831" height="275" key="GridCell.Tab.0.left" timestamp="1604064324749">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state width="1831" height="275" key="GridCell.Tab.0.left/66.27.1854.1053@66.27.1854.1053" timestamp="1604064324749" />
+    <state width="1831" height="275" key="GridCell.Tab.0.right" timestamp="1604064324750">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state width="1831" height="275" key="GridCell.Tab.0.right/66.27.1854.1053@66.27.1854.1053" timestamp="1604064324750" />
+  </component>
+</project>

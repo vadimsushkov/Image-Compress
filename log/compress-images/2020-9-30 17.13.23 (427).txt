@@ -1,0 +1,7 @@
+File from: [${Date.now()}output.${req.body.format}]
+
+File to: [build/img/${Date.now()}output.${req.body.format}]
+
+Compression algorithm: [-]
+
+Description: File does not exist!
