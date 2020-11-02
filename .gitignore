@@ -1,3 +1,6 @@
 node_modules
 build
 public
+.idea
+log
+
