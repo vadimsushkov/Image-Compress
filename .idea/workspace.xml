@@ -20,17 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8d92654-d2d4-41c9-87b6-b1b873bf604d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/view/index.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controller.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +76,7 @@
       <workItem from="1604067562946" duration="1895000" />
       <workItem from="1604069553052" duration="4764000" />
       <workItem from="1604074343953" duration="317000" />
-      <workItem from="1604302629259" duration="28618000" />
+      <workItem from="1604302629259" duration="28926000" />
     </task>
     <servers />
   </component>
