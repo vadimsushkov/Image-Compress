@@ -1,7 +1,0 @@
-File from: [1604070442272output.undefined]
-
-File to: [build/img/1604070442272output.undefined]
-
-Compression algorithm: [-]
-
-Description: File does not exist!

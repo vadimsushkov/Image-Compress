@@ -1,7 +1,0 @@
-File from: [../public/uploads/file-1604072175909.png]
-
-File to: [build/img/file-1604072175909.png]
-
-Compression algorithm: [-]
-
-Description: File does not exist!
