@@ -20,7 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8d92654-d2d4-41c9-87b6-b1b873bf604d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/modules/multer.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/service.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/events.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/events.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +58,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -76,7 +89,7 @@
       <workItem from="1604067562946" duration="1895000" />
       <workItem from="1604069553052" duration="4764000" />
       <workItem from="1604074343953" duration="317000" />
-      <workItem from="1604302629259" duration="28926000" />
+      <workItem from="1604302629259" duration="40085000" />
     </task>
     <servers />
   </component>
@@ -95,14 +108,14 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="839" y="445" width="298" height="238" key="#ESLint" timestamp="1604066971172">
+    <state x="839" y="445" width="298" height="245" key="#ESLint" timestamp="1604385443450">
       <screen x="66" y="27" width="1854" height="1053" />
     </state>
-    <state x="839" y="445" width="298" height="238" key="#ESLint/66.27.1854.1053@66.27.1854.1053" timestamp="1604066971172" />
-    <state x="696" y="355" width="670" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604073735663">
+    <state x="839" y="445" width="298" height="245" key="#ESLint/66.27.1854.1053@66.27.1854.1053" timestamp="1604385443450" />
+    <state x="696" y="355" width="677" height="410" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604393525931">
       <screen x="66" y="27" width="1854" height="1053" />
     </state>
-    <state x="696" y="355" width="670" height="403" key="#com.intellij.fileTypes.FileTypeChooser/66.27.1854.1053@66.27.1854.1053" timestamp="1604073735663" />
+    <state x="696" y="355" width="677" height="410" key="#com.intellij.fileTypes.FileTypeChooser/66.27.1854.1053@66.27.1854.1053" timestamp="1604393525931" />
     <state x="726" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604073394985">
       <screen x="66" y="27" width="1854" height="1053" />
     </state>
@@ -127,6 +140,10 @@
       <screen x="66" y="27" width="1854" height="1053" />
     </state>
     <state width="1831" height="275" key="GridCell.Tab.0.right/66.27.1854.1053@66.27.1854.1053" timestamp="1604064324750" />
+    <state x="482" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1604385208779">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="482" y="188" width="1022" height="737" key="SettingsEditor/66.27.1854.1053@66.27.1854.1053" timestamp="1604385208779" />
     <state x="684" y="292" width="618" height="522" key="find.popup" timestamp="1604322628386">
       <screen x="66" y="27" width="1854" height="1053" />
     </state>

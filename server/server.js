@@ -1,5 +1,5 @@
 const express = require('express');
-const controller = require('../config/router');
+const router = require('../config/router');
 
 /**
  * @type {express}
@@ -10,11 +10,12 @@ const app = express();
 /**
  * @description express.Application Controller
  */
-controller.init(app)
+router.init(app);
 
 /**
  * @description sets port 3000 to default or unless otherwise specified in the environment
  */
+console.log(process.env);
 app.set('port', process.env.PORT || 3006);
 
 module.exports = app;
